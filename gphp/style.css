@@ -1,0 +1,171 @@
+.head{
+	background-color: #3b5998;
+}
+.white
+{
+	color: white;
+}
+.button
+{
+	margin-top: 23px;
+}
+.text
+{
+	font-size: 25px;
+	color: black;
+	margin-top: 40px;
+}
+.color
+{
+ background-color: lightgrey;
+}
+.pad_5{
+  padding:4px;
+}
+.size
+{
+	font-size: 10px;
+
+}
+.gen_pad
+{
+	padding: 10px;
+}
+.create_button
+{
+   
+  
+   font-size: 20px;
+
+}
+.pad_6{
+	margin-top: 20px;
+}
+.sign_up
+{
+	margin-top: 78px;
+	
+}
+.email_error
+{
+margin-top: 100px;
+background-color: white;
+font-size: 15px;
+margin-bottom: 150px;
+border:1px solid lightgrey ;
+border-radius: 5px;
+}
+.facebook_login
+{
+	margin-top: 10px;
+}
+.email_error1
+{
+font-size: 15px;
+}
+.photo
+{
+	width: 53px;
+	height: 55px;
+}
+.search_pad
+{
+	margin-left:30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.search_photo
+{
+	width: 30px;
+	height:30px;
+	margin-top: 10px;
+	color: white;
+	font-size: 10px
+}
+.tags
+{
+	width: 30px;
+	height: 30px;
+}
+.cnt_color
+{
+	background-color: white;
+	margin-top: 15px;
+}
+.tag1
+{
+	width:30px;
+	height:30px;
+
+	padding: 2px;
+	
+}
+.status_color
+{
+	background-color: white;
+}
+.tag2
+{
+	width:40px;
+	height:40px;
+
+	padding: 1px;
+}
+.tag3
+{
+	
+	margin-bottom: 50px;
+}
+.margin
+{
+
+padding-bottom: 30%;
+}
+.pad_select
+{
+	margin-top: 20px;
+}
+.verifycolor
+{
+	font-family: Frosty;
+	}
+.dist
+{
+	margin-left: 400px;
+	font-family: Frosty;
+}
+.mailbtn
+{
+	background-color:grey;
+     width: 710px;
+     height: 35px;
+     margin-left: 14px;
+     font-size: 20px;
+     font-family: Frosty;
+}
+.mailpad
+{
+	margin-left: 40px;
+	
+}
+.btn_search
+{
+	margin-top: 15px;
+
+
+}
+.hidden
+{
+	display: none;
+}
+.img_size
+{
+	height: 100px;
+	width: 100px;
+}
+
+.mar_frnd
+{
+	margin-top: 10px;
+	font-style: bold;
+}
